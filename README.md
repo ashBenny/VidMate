@@ -1,6 +1,6 @@
 # Vidmate 
 
-- Its a video app thst fetch videos from youtube API
+- Its a video app that fetch videos from youtube API
 - Uses React, React Hooks and Axios
 - Covers state management(Hooks),destructuring, passing props, API calls with axios
 
